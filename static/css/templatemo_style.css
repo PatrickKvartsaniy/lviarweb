@@ -695,19 +695,12 @@ input.button {
   display: block;
 }
 
-ul.social {
-  text-align: right;
-}
-ul.social li {
+#footer-left div{
+  padding: 0;
+  margin: 0;
+  width: 50%;
   display: inline-block;
-}
-ul.social li a {
-  width: 40px;
-  height: 40px;
-  text-align: center;
-  line-height: 40px;
-  background-color: rgba(255, 255, 255, 0.2);
-  display: inline-block;
+  float: left;
 }
 
 /*------------------------------------------------------

@@ -10,4 +10,4 @@ def index():
 
 if __name__ == "__main__":
     host, port = '0.0.0.0', int(os.environ.get('PORT', 5000))
-    app.run(host=host, port=port)
+    app.run(host=host, port=port,debug=True)
