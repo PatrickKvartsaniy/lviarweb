@@ -1,6 +1,10 @@
 (function (window, $) {
 	'use strict';
 
+	// if ($(window).width() < 500){
+	// 	$('.site-slider').hide()
+	// }
+
 	// Cache document for fast access.
 	var document = window.document;
 

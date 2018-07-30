@@ -411,8 +411,8 @@ h6 {
   background-color: #161616;
 }
 .bxslider img{
-  width: 1600px;
-  height: 660px;
+  width: 100vw;
+  height: 100vh;
 }
 .bx-thumbnail-wrapper img{
   width: 160px;
